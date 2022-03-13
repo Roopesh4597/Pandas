@@ -7,3 +7,5 @@ In this Pandas section we discuss about:
 4. Data Manipulation on pandas
 5. Merge and join operations on the data frames
 6. Handling the null values in the data.
+7. Data files are not added here as there are to many to add
+
